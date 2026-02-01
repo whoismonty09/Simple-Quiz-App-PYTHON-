@@ -1,4 +1,4 @@
-# Day 9 - Simple Quiz App (Python)
+# Simple Quiz App (Python)
 
 ## Description
 This project is a simple Quiz Application built using Python. It asks the user a set of predefined questions, checks the user’s answers, and calculates the final score. The project helps in understanding the use of dictionaries, loops, and conditional statements in Python.
